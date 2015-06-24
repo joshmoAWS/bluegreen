@@ -1,1 +1,1 @@
-{"text":"Version 1","color":"0066FF"}
+{"text":"V1","color":"0066FF"}
